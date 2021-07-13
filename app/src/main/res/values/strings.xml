@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bozzapp</string>
+    <string name="text_example">TEXT EXAMPLE</string>
+    <string name="comments">comments:</string>
+    <string name="loading">LOADING</string>
+    <string name="connection_error">ERROR DE CONEXION</string>
+    <string name="save_post">post guardado</string>
+    <string name="delete_post">post eliminado</string>
+</resources>
